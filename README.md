@@ -7,3 +7,4 @@
              https://github.com/glaucia86/video-nodejs-mongo-restful-crud
              https://github.com/tgmarinho/README-ecoleta
              hamburguer: https://github.com/Padilha27/ProjetoAPI
+             full stack com reactjs
