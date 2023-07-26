@@ -8,3 +8,4 @@
              https://github.com/tgmarinho/README-ecoleta
              hamburguer: https://github.com/Padilha27/ProjetoAPI
              full stack com reactjs
+             https://dev.to/fs_pauloo/iniciando-projeto-nodejs-com-orm-sequelize-516h
