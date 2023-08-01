@@ -9,3 +9,6 @@
              hamburguer: https://github.com/Padilha27/ProjetoAPI
              full stack com reactjs
              https://dev.to/fs_pauloo/iniciando-projeto-nodejs-com-orm-sequelize-516h
+             *******************************************************************************
+             Código de projeto SEQUELIZE, EXPRESS e NODEJS:
+             https://www.treinaweb.com.br/blog/usando-sequelize-orm-com-node-e-express
